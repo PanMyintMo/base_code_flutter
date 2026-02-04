@@ -1,6 +1,7 @@
 import 'package:base_code_flutter/core/util/perferences.dart';
 import 'package:base_code_flutter/features/user/domain/entities/auth_entity.dart';
 import 'package:base_code_flutter/features/user/domain/repositories/auth_repository.dart';
+import 'package:base_code_flutter/features/user/presentation/providers/auth_di_provider.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 
